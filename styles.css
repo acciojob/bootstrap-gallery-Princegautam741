@@ -1,1 +1,34 @@
-/*  your css code here. If applicable */
+/* Your CSS code for styling the frame */
+
+.frame {
+    border: 2px solid #333; /* Border color and width */
+    border-radius: 10px; /* Border radius for rounded corners */
+    width: 300px; /* Width of the frame */
+    margin: 50px auto; /* Center the frame */
+}
+
+.header {
+    background-color: #333; /* Header background color */
+    color: white; /* Header text color */
+    padding: 10px; /* Padding inside the header */
+    text-align: center; /* Center-align the header text */
+}
+
+.header-text {
+    font-size: 1.5em; /* Font size of the header text */
+}
+
+.content {
+    padding: 20px; /* Padding inside the content */
+}
+
+.footer {
+    background-color: #333; /* Footer background color */
+    color: white; /* Footer text color */
+    padding: 10px; /* Padding inside the footer */
+    text-align: center; /* Center-align the footer text */
+}
+
+.footer-text {
+    font-size: 1.2em; /* Font size of the footer text */
+}
